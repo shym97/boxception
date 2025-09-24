@@ -25,3 +25,20 @@ h1 {
     display: flex;
     background-color: palevioletred;
 }
+#cool {
+    width: 510px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    outline: 3px solid black;
+}
+.allred {
+    border: 1px solid black;
+    background-color: red;
+}
+.rednblue {
+    background-color: blue;
+}
+.myself {
+    outline: 3px solid black;
+}
