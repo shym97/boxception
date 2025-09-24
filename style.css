@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+#small {
+    border: 3px solid black;
+    margin: auto;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    background-color: lightskyblue;
+}
+#medium {
+    border: 3px solid black;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    background-color: gold;
+}
+#large {
+    border: 3px solid black;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    background-color: palevioletred;
+}
